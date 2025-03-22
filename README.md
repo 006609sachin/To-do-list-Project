@@ -1,3 +1,3 @@
 # To-do-list-Project
-it is a project in HTML ,CSS, JS 
-making a to do list 
+It is a project in HTML ,CSS, JS .
+A simple and Ezy to make Project.
